@@ -1,0 +1,57 @@
+[
+  {
+    "name": "海盐薄荷",
+    "type": "light",
+    "colors": {
+      "--el-color-primary": "#14b8a6",
+      "--el-color-primary-light-9": "#e6faf7",
+      "--el-bg-color": "#f0fdfa",
+      "--el-border-color": "#ccfbf1"
+    }
+  },
+  {
+    "name": "樱花粉",
+    "type": "light",
+    "colors": {
+      "--el-color-primary": "#ec4899",
+      "--el-color-primary-light-9": "#fdf2f8",
+      "--el-bg-color": "#fdf2f8"
+    }
+  },
+  {
+    "name": "极简灰",
+    "type": "light",
+    "colors": {
+      "--el-color-primary": "#64748b",
+      "--el-color-primary-light-9": "#f1f5f9",
+      "--el-bg-color": "#f8fafc",
+      "--el-border-color": "#e2e8f0"
+    }
+  },
+  {
+    "name": "星空紫",
+    "type": "dark",
+    "colors": {
+      "--el-color-primary": "#8b5cf6",
+      "--el-bg-color": "#1e1b2e",
+      "--el-bg-color-overlay": "#2a2640",
+      "--el-text-color-primary": "#ede9fe",
+      "--el-text-color-regular": "#ddd6fe",
+      "--el-text-color-secondary": "#a5b4fc",
+      "--el-border-color": "#3b3654"
+    }
+  },
+  {
+    "name": "午夜蓝",
+    "type": "dark",
+    "colors": {
+      "--el-color-primary": "#60a5fa",
+      "--el-bg-color": "#0f172a",
+      "--el-bg-color-overlay": "#172033",
+      "--el-text-color-primary": "#e2e8f0",
+      "--el-text-color-regular": "#cbd5e1",
+      "--el-text-color-secondary": "#94a3b8",
+      "--el-border-color": "#1e293b"
+    }
+  }
+]
